@@ -1,13 +1,14 @@
 # stream-sink
 
 ## Description
-Project stream-sink
+Utilities for `futures::Sink` and streams, likely for stream processing pipelines.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Provide stream/sink adapters
+- [ ] Enhance futures ecosystem
 
 ## Progress
-- [ ] Initial setup
+- [ ] Crate initialized
 
 ---
 *AI assisted*
